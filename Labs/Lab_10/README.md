@@ -1,0 +1,1 @@
+In this code together with Massimo Porcehddu (318098) we created a Q-learning algorithm that competes against tic-tac-toe. The Q table is not initialized at the start but from time to time when new combinations are generated.
