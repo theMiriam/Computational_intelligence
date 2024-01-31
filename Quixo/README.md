@@ -8,9 +8,12 @@ Here we discovered some interesting things. For example there is an interesting 
 
 This representation only requires 8 bytes: 25 bits for each symbol (O or X) and 7+7 are unused, as it is possible to observe in the image below.
 
+![Screenshot](./images/img1.png)
 
 B and C in the image below are other 8 bytes that the authors used to perform the move.
 
+![Screenshot](./images/img2.png)
+![Screenshot](./images/img3.png)
 
 
 From the image above it is possible to observe how the moves are executed.
